@@ -6,4 +6,8 @@ public class Apple {
 	public Apple() {
 		price = 1000;
 	}
+	
+	public void setPrice(int price) {
+		this.price = price;
+	}
 }
