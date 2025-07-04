@@ -10,4 +10,8 @@ public class Apple {
 	public void print() {
 		System.out.println("사과사과");
 	}
+	
+	public void setPrice(int price) {
+		this.price = price;
+	}
 }
